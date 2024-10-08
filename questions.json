@@ -1,0 +1,26 @@
+{
+  "CULTURE_GENERALE": [
+    {
+      "text": "Qui a peint la Joconde ?",
+      "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle est la capitale de l'Australie ?",
+      "options": ["Sydney", "Melbourne", "Canberra"],
+      "correctAnswer": 2
+    }
+  ],
+  "ANGLAIS": [
+    {
+      "text": "What is the past tense of 'go'?",
+      "options": ["Goed", "Went", "Gone"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Which word is a synonym for 'happy'?",
+      "options": ["Sad", "Joyful", "Angry"],
+      "correctAnswer": 1
+    }
+  ]
+}
