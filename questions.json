@@ -9,6 +9,11 @@
       "text": "Quelle est la capitale de l'Australie ?",
       "options": ["Sydney", "Melbourne", "Canberra"],
       "correctAnswer": 2
+    },
+    {
+      "text": "En quelle année a commencé la Première Guerre mondiale ?",
+      "options": ["1914", "1918", "1939"],
+      "correctAnswer": 0
     }
   ],
   "ANGLAIS": [
@@ -20,6 +25,249 @@
     {
       "text": "Which word is a synonym for 'happy'?",
       "options": ["Sad", "Joyful", "Angry"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "What is the opposite of 'hot'?",
+      "options": ["Warm", "Cold", "Cool"],
+      "correctAnswer": 1
+    }
+  ],
+  "LOGIQUE": [
+    {
+      "text": "Si A implique B, et B implique C, que peut-on dire de A et C ?",
+      "options": ["A implique C", "C implique A", "A et C sont indépendants"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Complétez la suite : 2, 4, 8, 16, ...",
+      "options": ["24", "32", "64"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le PGCD de 12 et 18 ?",
+      "options": ["3", "6", "9"],
+      "correctAnswer": 1
+    }
+  ],
+  "SCIENCE": [
+    {
+      "text": "Quelle est la plus petite particule d'un élément qui conserve ses propriétés ?",
+      "options": ["Atome", "Molécule", "Électron"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle est la vitesse de la lumière ?",
+      "options": ["299 792 458 m/s", "300 000 000 m/s", "150 000 000 m/s"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le symbole chimique de l'or ?",
+      "options": ["Au", "Ag", "Fe"],
+      "correctAnswer": 0
+    }
+  ],
+  "LITTERATURE_AFRICAINE": [
+    {
+      "text": "Qui a écrit 'Une si longue lettre' ?",
+      "options": ["Mariama Bâ", "Aminata Sow Fall", "Fatou Diome"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel auteur ivoirien a écrit 'Les soleils des indépendances' ?",
+      "options": ["Ahmadou Kourouma", "Bernard Dadié", "Véronique Tadjo"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Qui est l'auteur de 'L'Aventure ambiguë' ?",
+      "options": ["Cheikh Hamidou Kane", "Léopold Sédar Senghor", "Birago Diop"],
+      "correctAnswer": 0
+    }
+  ],
+  "SPORT": [
+    {
+      "text": "Dans quel sport utilise-t-on un javelot ?",
+      "options": ["Athlétisme", "Natation", "Cyclisme"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Combien de joueurs y a-t-il dans une équipe de football sur le terrain ?",
+      "options": ["9", "10", "11"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quel pays a remporté la Coupe du Monde de football 2018 ?",
+      "options": ["Brésil", "Allemagne", "France"],
+      "correctAnswer": 2
+    }
+  ],
+  "GUERRES": [
+    {
+      "text": "En quelle année a commencé la Première Guerre mondiale ?",
+      "options": ["1914", "1918", "1939"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Qui était le leader de l'Allemagne nazie pendant la Seconde Guerre mondiale ?",
+      "options": ["Joseph Staline", "Adolf Hitler", "Benito Mussolini"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle bataille est considérée comme le tournant de la Seconde Guerre mondiale sur le front de l'Est ?",
+      "options": ["Bataille de Stalingrad", "Bataille de Moscou", "Bataille de Koursk"],
+      "correctAnswer": 0
+    }
+  ],
+  "CORPS_HUMAIN": [
+    {
+      "text": "Combien d'os y a-t-il dans le corps humain adulte ?",
+      "options": ["206", "180", "230"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est l'organe le plus grand du corps humain ?",
+      "options": ["Foie", "Cerveau", "Peau"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quelle est la fonction principale des globules rouges ?",
+      "options": ["Combattre les infections", "Transporter l'oxygène", "Coaguler le sang"],
+      "correctAnswer": 1
+    }
+  ],
+  "PRIX_NOBEL": [
+    {
+      "text": "Qui a reçu le premier Prix Nobel de la Paix ?",
+      "options": ["Henry Dunant", "Frédéric Passy", "Théodore Roosevelt"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "En quelle année le Prix Nobel a-t-il été décerné pour la première fois ?",
+      "options": ["1895", "1901", "1910"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle scientifique a reçu deux Prix Nobel dans des domaines différents ?",
+      "options": ["Marie Curie", "Linus Pauling", "John Bardeen"],
+      "correctAnswer": 0
+    }
+  ],
+  "HISTOIRE_GEOGRAPHIE": [
+    {
+      "text": "Quelle est la plus haute montagne du monde ?",
+      "options": ["K2", "Mont Blanc", "Mont Everest"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Qui était le premier président des États-Unis ?",
+      "options": ["Thomas Jefferson", "George Washington", "Abraham Lincoln"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le plus long fleuve du monde ?",
+      "options": ["Amazone", "Nil", "Mississippi"],
+      "correctAnswer": 1
+    }
+  ],
+  "GRANDES_DECOUVERTES": [
+    {
+      "text": "Qui a découvert la pénicilline ?",
+      "options": ["Louis Pasteur", "Alexander Fleming", "Marie Curie"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle invention a révolutionné l'imprimerie au 15e siècle ?",
+      "options": ["La presse à imprimer", "La machine à écrire", "Le stylo à bille"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Qui est considéré comme l'inventeur du téléphone ?",
+      "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla"],
+      "correctAnswer": 1
+    }
+  ],
+  "APTITUDE_VERBALE": [
+    {
+      "text": "Quel est le synonyme de 'éphémère' ?",
+      "options": ["Durable", "Temporaire", "Éternel"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Complétez l'analogie : Livre est à Page comme Album est à ...",
+      "options": ["Musique", "Chanson", "Artiste"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est l'antonyme de 'prolifique' ?",
+      "options": ["Stérile", "Abondant", "Fécond"],
+      "correctAnswer": 0
+    }
+  ],
+  "GRAMMAIRE": [
+    {
+      "text": "Quelle est la nature du mot 'rapidement' ?",
+      "options": ["Adjectif", "Adverbe", "Nom"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le sujet dans la phrase 'Le chat dort sur le canapé' ?",
+      "options": ["Chat", "Dort", "Canapé"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle est la fonction de 'belle' dans 'La belle maison' ?",
+      "options": ["Épithète", "Attribut", "Complément"],
+      "correctAnswer": 0
+    }
+  ],
+  "CONJUGAISON": [
+    {
+      "text": "Quel est le participe passé du verbe 'résoudre' ?",
+      "options": ["Résolu", "Résous", "Résolvu"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "À quel temps est conjugué le verbe dans 'Il aurait aimé venir' ?",
+      "options": ["Conditionnel présent", "Conditionnel passé", "Plus-que-parfait"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle est la 1ère personne du singulier du verbe 'aller' au futur simple ?",
+      "options": ["J'irai", "J'irais", "Je vais"],
+      "correctAnswer": 0
+    }
+  ],
+  "ORTHOGRAPHE": [
+    {
+      "text": "Quelle est l'orthographe correcte ?",
+      "options": ["Accomoder", "Accomoder", "Accommoder"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Comment s'écrit le pluriel de 'festival' ?",
+      "options": ["Festivals", "Festivaux", "Festivales"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le féminin de 'époux' ?",
+      "options": ["Épouse", "Épousée", "Épousesse"],
+      "correctAnswer": 0
+    }
+  ],
+  "LOGIQUE_MATHEMATIQUE": [
+    {
+      "text": "Complétez la suite : 2, 4, 8, 16, ...",
+      "options": ["24", "32", "64"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Si A = 3 et B = 5, que vaut 2A + 3B ?",
+      "options": ["19", "21", "23"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le PGCD de 24 et 36 ?",
+      "options": ["6", "12", "18"],
       "correctAnswer": 1
     }
   ]
